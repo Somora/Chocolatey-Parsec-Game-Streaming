@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>parsecgamestreaming</id>
+    <version>3.8.19</version>
+    <title>Parsec Game Streaming (Install)</title>
+    <authors>Parsec Cloud</authors>
+    <owners>Somora</owners>
+    <licenseUrl>https://parsecgaming.com/terms</licenseUrl>
+    <projectUrl>https://parsecgaming.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Parsec is a desktop capturing application primarily used for cloud-based gaming through video streaming. Using Parsec, a user can stream video game footage through an Internet connection, allowing one to run a game on PC but play it remotely. Parsec can also be used as low-latency desktop sharing software.</description>
+    <summary>Simple, Low-Latency Game Streaming</summary>
+    <releaseNotes>https://parsecgaming.com/changelog</releaseNotes>
+    <copyright>Copyright Parsec Cloud, Inc 2016-2018</copyright>
+    <tags>Parsec Gamestreaming Gaming Streaming</tags>
+    <packageSourceUrl>https://github.com/Somora/Chocolatey-Parsec-Game-Streaming</packageSourceUrl>
+    <docsUrl>https://support.parsecgaming.com/</docsUrl>
+  </metadata>
+</package>
